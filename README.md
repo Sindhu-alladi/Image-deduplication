@@ -48,5 +48,4 @@ The system scans a directory for images and compares each image against others u
 - Support for additional image formats and larger datasets
 
 ---
-*Created on 2026-02-16 10:00:31 UTC* 
 
